@@ -1,0 +1,5 @@
+http://www.cazy.org/Glycoside-Hydrolases.html
+http://www.cazy.org/GlycosylTransferases.html
+http://www.cazy.org/Polysaccharide-Lyases.html
+http://www.cazy.org/Carbohydrate-Esterases.html
+http://www.cazy.org/Auxiliary-Activities.html
